@@ -1,4 +1,4 @@
-👋 Hey there! I’m Elham Hosieni, a Front-End Developer with a twist of AI magic! 🚀
+👋 Hey there! I’m Elham Hosieni, a Reactjs | Nextjs developer with a twist of AI magic! 🚀
 
 🎓 Graduated in AI, I’ve got the brains for algorithms and the heart for beautiful web experiences. Whether it’s crafting pixel-perfect UIs or diving into neural networks, I thrive on turning ideas into code.
 
