@@ -4,7 +4,7 @@
 
 🌐 My journey began as a Full-Stack Software Developer in the .NET world. But then, like a curious cat chasing a laser pointer, I switched lanes. Now, I’m all about React.js and Next.js. JavaScript is my playground, and I’m swinging from hooks to promises!
 
-🛠️ As a freelancer, I’ve built sleek React projects that dance gracefully across browsers. From responsive designs to efficient code, I’m all about making the web feel like home. Tailwind CSS? Almost like my second language! 💅
+🛠️ As a freelancer, I’ve built sleek React projects that dance gracefully across browsers. From responsive designs to efficient code, I’m all about making the web feel like home. 💅
 
 🤖 And yes, I’ve got a secret weapon: AI. When I’m not wrangling divs, I’m whispering to neural nets. 🤫
 
